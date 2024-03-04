@@ -1,6 +1,6 @@
 [package]
 name = "jdks"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["XS <tonycody@qq.com>"]
 edition = "2021"
 description = "This is a JDK package management tool, based on Rust."
@@ -29,3 +29,9 @@ symlink = "0.1.0"
 tempfile = "3.10.0"
 textwrap = "0.16.0"
 sdkman-cli-native = "0.4.6"
+ksre-tui = "0.1.0"
+xml-rsl = "0.1.0"
+toml-rsl = "0.1.0"
+tar-rsl = "0.1.0"
+ssh2-rsl = "0.1.0"
+crypto-rsl = "0.1.0"
