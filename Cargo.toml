@@ -10,6 +10,7 @@ homepage = "https://github.com/tonycody/jdks"
 repository = "https://github.com/tonycody/jdks"
 categories = ["command-line-utilities"]
 keywords = ["cli", "jdk", "openjdk", "java"]
+documentation = "https://docs.rs/jdks"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
